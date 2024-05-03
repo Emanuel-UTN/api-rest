@@ -1,0 +1,25 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "![Cabecera](../../images/22795b6c552ff69919ee656e69d111faf19ed5ff1df20f76b3990496795076a2.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emanuel-UTN/api-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emanuel-UTN/api-rest/issues"
+  },
+  "homepage": "https://github.com/Emanuel-UTN/api-rest#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  }
+}
